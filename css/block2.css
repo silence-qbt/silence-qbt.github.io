@@ -1,0 +1,51 @@
+.layout-skills{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    padding: 0;
+    height: 600px;
+    background: linear-gradient(-45deg,#e54b20,rgb(36,101,241));
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right:5%;
+    margin-bottom: 50px;
+
+}
+.html-css{
+opacity: 10%;
+
+
+}
+.html-css-img{
+width: 500px;
+height: 300px;
+    
+    
+}
+.layout-skills-title{
+position: relative;
+bottom: 20px;
+font-size: 100px;
+color: rgba(198, 110, 220, 0.151);
+}
+/*LAYOUT SKILLS/MY SKILLS*/
+.skills-block{
+position:relative;
+top: 400px;
+right:700px;
+
+}
+.skills{
+display: flex;
+flex-direction: row;
+
+}
+.skill-i{
+margin: 25px;
+list-style-type: none;
+white-space: nowrap;
+padding: 8px 8px 8px 8px;
+box-shadow:10px 10px 10px 0px rgba(0, 0, 0, 0.13);
+border-radius: 40px;
+color: rgba(241, 117, 15, 0.479);
+}

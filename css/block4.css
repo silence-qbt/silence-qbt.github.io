@@ -1,0 +1,45 @@
+.softskills-block{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    padding: 0;
+    height: 600px;
+    background: linear-gradient(-30deg,rgba(25, 206, 238, 0.596), #fff);
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right:5%;
+    margin-bottom: 50px;
+}
+.cloud{
+margin-left: 20px;
+opacity: 40%;
+}
+.cloud-img{
+    width: 300px;
+    height: 300px;
+}
+.softskills-title{
+font-size: 100px;
+color: rgba(25, 206, 238, 0.13);
+position: relative;
+bottom: 20px;
+white-space: nowrap;
+}
+.softskills{
+position: relative;
+right: 800px;
+top:300px;
+color:rgba(21, 133, 153, 0.212);
+}
+.softskills-ul{
+    display: flex;
+    flex-direction: row;
+}
+.softskills-li{
+    white-space: nowrap;
+    margin: 25px;
+    list-style-type: none;
+    padding: 8px 8px 8px 8px;
+    box-shadow:10px 10px 10px 0px rgba(25, 206, 238, 0.541);
+    border-radius: 40px;
+}

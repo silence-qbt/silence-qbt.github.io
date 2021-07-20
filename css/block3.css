@@ -1,0 +1,44 @@
+.js-block{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    padding: 0;
+    height: 600px;
+    background: linear-gradient(-20deg,rgb(137,207,24), #fff);
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right:5%;
+    margin-bottom: 50px;
+}
+.js-logo{
+opacity: 20%;
+}
+.js-img{
+width: 300px;
+height: 300px;
+}
+.js-title{
+color:rgb(137,207,24);
+font-size: 100px;
+position: relative;
+left: 400px;
+bottom: 325px;
+}
+.js-skills{
+position: relative;
+left: 300px;
+bottom: 200px;
+color: rgba(48, 80, 0, 0.884);
+
+}
+.js-skills-ul{
+display: flex;
+flex-direction: row;
+}
+.js-skills-li{
+margin: 25px;
+list-style-type: none;
+padding: 8px 8px 8px 8px;
+box-shadow:10px 10px 10px 0px rgb(137,207,24);
+border-radius: 40px;
+}
